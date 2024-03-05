@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC_Calculator</string>
+    <string name="msg_writeName">Escribe tu nombre</string>
+    <string name="btn_go">Vamos !</string>
+    <string name="male">Machote</string>
+    <string name="female">señorita</string>
+    <string name="height">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="Age">Edad</string>
+</resources>
